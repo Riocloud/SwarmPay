@@ -17,6 +17,12 @@
 - Small, incremental changes over large rewrites.
 - When debugging, check logs and error messages first.
 
+## Shared Knowledge Vault
+- Read `AGENTS.md` before non-trivial work in this repository.
+- When the local shared vault is available, load its canonical protocol:
+
+@/Users/vino/Documents/GitHub/research-knowledge-vault/AGENT_PROTOCOL.md
+
 ## Environment
 - Linux (Ubuntu/Debian) and macOS. Heavy Docker usage.
 - Use whatever package manager the project already uses.
@@ -25,4 +31,3 @@
 - Do not add comments that restate the code.
 - Do not refactor unrelated code while fixing a bug.
 - Do not create new files without telling me first.
-
